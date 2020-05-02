@@ -10,6 +10,13 @@ output:
     highlight: tango
 ---
 
+\pagebreak
+
+# Intro 
+
+A list of resources I have found helpful over the years. I use most of the items here regularly and have each of them bookmarked. 
+
+I wouldn't consider myself an expert in R by any means so this might not be useful for those who already have a lot of experience.  
 
 
 # Dipping your toes
@@ -25,20 +32,27 @@ If this resonates at all with you, here are two particularly good resources to s
 
 # Programming & Statistics
 
-  * ***Discovering Statistics Using R*** ([link](https://www.amazon.com/dp/B00HPZ4VVM/ref=cm_sw_em_r_mt_dp_U_STnREbTZY2G0S)) by Andy Field, Jeremy Miles, and Zoe Field has been my go-to book since I started using R in 2014 and I continue to refer back to it to this day both for basic. One downside is that some of the packages are a bit outdated. 
-  * ***R for Data Science*** ([link](https://r4ds.had.co.nz/)) by Garrett Grolemund and Hadley Wickham is worth reading basically end-to-end for anyone using R for data analysis. This book goes through the basics of importing, cleaning, transforming, and visualizing data.
+  * ***Discovering Statistics Using R* by Andy Field, Jeremy Miles, and Zoe Field** ([Amazon.com link](https://www.amazon.com/dp/B00HPZ4VVM/ref=cm_sw_em_r_mt_dp_U_STnREbTZY2G0S)) has been my go-to book since I started using R in 2014 and I continue to refer back to it to this day both for basic. One downside is that some of the packages are a bit outdated. 
+  * ***R for Data Science* by Garrett Grolemund and Hadley Wickham** ([link](https://r4ds.had.co.nz/)) is worth reading basically end-to-end for anyone using R for data analysis. This book goes through the basics of importing, cleaning, transforming, and visualizing data.
   
   
   
   
 # Data Visualization
 
-  * ***R Graphics Cookbook, 2nd Edition*** (<https://r-graphics.org/>) by Winston Chang
-  * **ggplot2 reference** (<https://ggplot2.tidyverse.org/reference/>)
-  * ***ggplot2: Elegant Graphics for Data Analysis*** (<https://ggplot2-book.org/>) by Hadley Wickham
+  * ***R Graphics Cookbook, 2nd Edition* by Winston Chang** (<https://r-graphics.org/>) - This book has over 150 'recipes' for the most common graphs. Consider this a menu of options; for example, if you know you want a histogram or a box plot, just jump to the relevant chapter and you'll find a template for it.
+  * **ggplot2 reference** (<https://ggplot2.tidyverse.org/reference/>) - `ggplot2` is a package used for building graphs in R. It works by layering differnt components on top of each other. This website provides a reference list for most components and examples of how to use each. I usually use it when I have something in mind that I want to do, such as changing the scales on the y-axis.
+  * ***ggplot2: Elegant Graphics for Data Analysis* by Hadley Wickham** (<https://ggplot2-book.org/>) - this is a shorter book, that basically gets you started with `ggplot2`. If you're new to R or new to ggplot2, I'd skim through through this. 
 
 
 # File Management and Sharing
 
-  * ***Happy Git and Github for the userR*** (<https://happygitwithr.com/>) by Jenny Bryan, the STAT 545 TAs, and Jim Hester
+  * ***Happy Git and Github for the userR* by Jenny Bryan, the STAT 545 TAs, and Jim Hester** (<https://happygitwithr.com/>) - I used this to get setup with Git and Github. Neither are very intuitive to use, in my opinion, but incredibly valuable for organizing and storing files. It takes a couple hours to get through and set things up but you will thank yourself for doing this sooner rather than later. 
+  
+  
+  
+# Miscellaneous
+
+  * **RStudio Cheatsheets** (<https://rstudio.com/resources/cheatsheets/>) - There are literally dozens of cheatsheets here. I've downloaded many of them and open at least one of them up every time I use R. If you believe in the 80/20 rule, these cheatsheets will cover the 80\% of things you need to know under each topic.
+  * **stargazer** (<https://www.jakeruss.com/cheatsheets/stargazer/>) - I've been using the `stargzer` package to generate tables in R, specifically regression tables. This is a fairly extensive resource for this package. 
   
