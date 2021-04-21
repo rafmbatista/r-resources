@@ -30,8 +30,9 @@ If this resonates at all with you, here are two particularly good resources to s
 
 # Programming & Statistics
 
-  * ***Discovering Statistics Using R* by Andy Field, Jeremy Miles, and Zoe Field** ([Amazon.com link](https://www.amazon.com/dp/B00HPZ4VVM/ref=cm_sw_em_r_mt_dp_U_STnREbTZY2G0S)) has been my go-to book since I started using R in 2014 and I continue to refer back to it to this day both for basic. One downside is that some of the packages are a bit outdated. 
+  * ***Discovering Statistics Using R* by Andy Field, Jeremy Miles, and Zoe Field** ([Amazon.com link](https://www.amazon.com/dp/B00HPZ4VVM/ref=cm_sw_em_r_mt_dp_U_STnREbTZY2G0S)) has been my go-to book since I started using R in 2014 and I continue to refer back to it to this day both for basic. One downside is that some of the packages are a bit outdated (note a newer version is set to come out soon, the beta version of the accompanying R tutorial is currently [here](https://www.discovr.rocks/))
   * ***R for Data Science* by Garrett Grolemund and Hadley Wickham** ([link](https://r4ds.had.co.nz/)) is worth reading basically end-to-end for anyone using R for data analysis. This book goes through the basics of importing, cleaning, transforming, and visualizing data.
+  * ***Causal Inference: The Mixtape** by Scott Cunningham** (<https://mixtape.scunning.com/index.html>) this is a relatively new book which not only teaches causal inference techniques but also provides corresponding code for Stata, R, and Python
   
   
   
