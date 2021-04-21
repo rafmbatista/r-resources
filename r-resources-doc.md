@@ -2,7 +2,7 @@
 title: "R Resources"
 author: Rafael M. Batista^[University of Chicago Booth School of Business, Chicago,
   IL 60637. rafael.batista@chicagobooth.edu.]
-date: "Last edited: **1 May 2020**"
+date: "Last edited: **20 April 2021**"
 output:
   pdf_document:
     toc: yes
@@ -15,8 +15,6 @@ output:
 # Intro 
 
 A list of resources I have found helpful over the years. I use most of the items here regularly and have each of them bookmarked. 
-
-I wouldn't consider myself an expert in R by any means so this might not be useful for those who already have a lot of experience.  
 
 
 # Dipping your toes
@@ -32,8 +30,9 @@ If this resonates at all with you, here are two particularly good resources to s
 
 # Programming & Statistics
 
-  * ***Discovering Statistics Using R* by Andy Field, Jeremy Miles, and Zoe Field** ([Amazon.com link](https://www.amazon.com/dp/B00HPZ4VVM/ref=cm_sw_em_r_mt_dp_U_STnREbTZY2G0S)) has been my go-to book since I started using R in 2014 and I continue to refer back to it to this day both for basic. One downside is that some of the packages are a bit outdated. 
+  * ***Discovering Statistics Using R* by Andy Field, Jeremy Miles, and Zoe Field** ([Amazon.com link](https://www.amazon.com/dp/B00HPZ4VVM/ref=cm_sw_em_r_mt_dp_U_STnREbTZY2G0S)) has been my go-to book since I started using R in 2014 and I continue to refer back to it to this day both for basic. One downside is that some of the packages are a bit outdated (note a newer version is set to come out soon, the beta version of the accompanying R tutorial is currently [here](https://www.discovr.rocks/))
   * ***R for Data Science* by Garrett Grolemund and Hadley Wickham** ([link](https://r4ds.had.co.nz/)) is worth reading basically end-to-end for anyone using R for data analysis. This book goes through the basics of importing, cleaning, transforming, and visualizing data.
+  * ***Causal Inference: The Mixtape** by Scott Cunningham** (<https://mixtape.scunning.com/index.html>) this is a relatively new book which not only teaches causal inference techniques but also provides corresponding code for Stata, R, and Python
   
   
   
@@ -43,6 +42,18 @@ If this resonates at all with you, here are two particularly good resources to s
   * ***R Graphics Cookbook, 2nd Edition* by Winston Chang** (<https://r-graphics.org/>) - This book has over 150 'recipes' for the most common graphs. Consider this a menu of options; for example, if you know you want a histogram or a box plot, just jump to the relevant chapter and you'll find a template for it.
   * **ggplot2 reference** (<https://ggplot2.tidyverse.org/reference/>) - `ggplot2` is a package used for building graphs in R. It works by layering differnt components on top of each other. This website provides a reference list for most components and examples of how to use each. I usually use it when I have something in mind that I want to do, such as changing the scales on the y-axis.
   * ***ggplot2: Elegant Graphics for Data Analysis* by Hadley Wickham** (<https://ggplot2-book.org/>) - this is a shorter book, that basically gets you started with `ggplot2`. If you're new to R or new to ggplot2, I'd skim through through this. 
+  * ***Data Visualization: A practical Introduction* by Kieran Healy** (<https://socviz.co/>) - this book I haven't used very often but I've seen others referencing it and provides a series of considerations 
+  
+  
+# Text Mining and Analysis
+
+  * ***Text mining with tidy data principles** by Julia Silge* (<https://juliasilge.shinyapps.io/learntidytext/#section-introduction>) offers a straightforward tutorial for using `tidytext`, a package in R designed to make text mining easier and more effective
+  * ***Text Mining with R: A tidy Approach** by Julia Silge and David Robinson* (<https://www.tidytextmining.com/index.html>) goes a bit deeper than the tutorial but follows the same principles
+  * ***Supervised Machine Learning for Text Analysis in R** by Emil Hvitfeldt and Julia Silge* (<https://smltar.com/>) focuses on using text for prediction (ie. text + machine learning)
+
+
+# Machine Learning
+
 
 
 # File Management and Sharing
