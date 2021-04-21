@@ -46,6 +46,10 @@ If this resonates at all with you, here are two particularly good resources to s
   
 # Text Mining and Analysis
 
+  * ***Text mining with tidy data principles** by Julia Silge* (<https://juliasilge.shinyapps.io/learntidytext/#section-introduction>) offers a straightforward tutorial for using `tidytext`, a package in R designed to make text mining easier and more effective
+  * ***Text Mining with R: A tidy Approach** by Julia Silge and David Robinson* (<https://www.tidytextmining.com/index.html>) goes a bit deeper than the tutorial but follows the same principles
+  * ***Supervised Machine Learning for Text Analysis in R** by Emil Hvitfeldt and Julia Silge* (<https://smltar.com/>) focuses on using text for prediction (ie. text + machine learning)
+
 
 # Machine Learning
 
